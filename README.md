@@ -5,9 +5,9 @@ Es mi primer repositorio de prueba mientras aprendo la herramiento de GitHub y a
 - Por otro lado, se encuentran los ejercicios que realice para poder formarme en Java. Se encuentra desde estructuras mas simples hasta POO y clases.
 
 ## 🚀 Tecnologías utilizadas
-- ![Java](https://img.shields.io/badge/Java-21-red) Java 21
-- ![VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue) Visual Studio Code
-- ![GitHub](https://img.shields.io/badge/GitHub-Repo-black) Git & GitHub
+- ![Java](https://img.shields.io/badge/Java-21-red) 
+- ![VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue)
+- ![GitHub](https://img.shields.io/badge/GitHub-Repo-black)
 
 ## 📂 Estructura
 - Carpeta FRT: Guias sobre Arrays, Arrays bidimensioales (Matriz), Loops, Control de flujo con condicionales, Operador ternario y Break y Continue.
