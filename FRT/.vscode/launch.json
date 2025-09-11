@@ -1,0 +1,88 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "OperadorTernario",
+      "request": "launch",
+      "mainClass": "OperadorTernario",
+      "projectName": "FRT_cc7af2d1"
+    },
+    {
+      "type": "java",
+      "name": "Bucles",
+      "request": "launch",
+      "mainClass": "Bucles",
+      "projectName": "Prueba_aa8abd88"
+    },
+    {
+      "type": "java",
+      "name": "BreakContinue",
+      "request": "launch",
+      "mainClass": "BreakContinue",
+      "projectName": "Prueba_aa8abd88"
+    },
+    {
+      "type": "java",
+      "name": "ArrayBidimensional",
+      "request": "launch",
+      "mainClass": "ArrayBidimensional",
+      "projectName": "Prueba_aa8abd88"
+    },
+    {
+      "type": "java",
+      "name": "Arrays",
+      "request": "launch",
+      "mainClass": "Arrays",
+      "projectName": "Prueba_aa8abd88"
+    },
+    {
+      "type": "java",
+      "name": "breakContinue",
+      "request": "launch",
+      "mainClass": "breakContinue",
+      "projectName": "Prueba_aa8abd88"
+    },
+    {
+      "type": "java",
+      "name": "bucles",
+      "request": "launch",
+      "mainClass": "bucles",
+      "projectName": "Prueba_aa8abd88"
+    },
+    {
+      "type": "java",
+      "name": "operadorTernario",
+      "request": "launch",
+      "mainClass": "operadorTernario",
+      "projectName": "Prueba_aa8abd88"
+    },
+    {
+      "type": "java",
+      "name": "controlDeFlujoCondicionales",
+      "request": "launch",
+      "mainClass": "controlDeFlujoCondicionales",
+      "projectName": "Prueba_aa8abd88"
+    },
+    {
+      "type": "java",
+      "name": "controlDeFlujo",
+      "request": "launch",
+      "mainClass": "controlDeFlujo",
+      "projectName": "Prueba_aa8abd88"
+    },
+    {
+      "type": "java",
+      "name": "Ej1",
+      "request": "launch",
+      "mainClass": "Ej1",
+      "projectName": "Prueba_aa8abd88"
+    },
+    {
+      "type": "java",
+      "name": "Launch Java Program",
+      "request": "launch",
+      "mainClass": "App"
+    }
+  ]
+}
