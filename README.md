@@ -44,6 +44,6 @@ javac -d ../bin *.java
 ```
 
 ## 📝 Notas
--Estos ejercicios son parte de mi proceso de aprendizaje en Java y Github.
--Incluye un vistazo general a lo que es Java POO.
--Se versiona solo el código fuente (src), los compilados (bin) se generan localmente.
+- Estos ejercicios son parte de mi proceso de aprendizaje en Java y Github.
+- Incluye un vistazo general a lo que es Java POO.
+- Se versiona solo el código fuente (src), los compilados (bin) se generan localmente.
