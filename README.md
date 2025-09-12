@@ -20,13 +20,13 @@ Es mi primer repositorio de prueba mientras aprendo la herramiento de GitHub y a
   - Ej5 → Estructuras de datos  
   - Ej6 → Loops  
   - Ej7 → Funciones  
-  - Ej8.1 → POO: Clases y objetos  
-  - Ej8.2 → Modificadores de acceso  
-  - Ej8.3 → Herencia  
-  - Ej8.4 → Polimorfismo  
-  - Ej8.5 → Abstracción  
-  - Ej9 → Excepciones  
-  - Ej10 → Extras 
+  - Ej8 → POO: Clases y objetos  
+  - Ej9 → Modificadores de acceso  
+  - Ej10 → Herencia  
+  - Ej11 → Polimorfismo  
+  - Ej12 → Abstracción  
+  - Ej13 → Excepciones  
+  - Ej14 → Extras 
 
 ## ▶️ Cómo compilar y ejecutar
 Desde la carpeta `src`:

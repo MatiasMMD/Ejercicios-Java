@@ -1,3 +1,4 @@
+package Ej4;
 public class Ej4 {
     public static void main(String[] args) {
         // 1. Establece la edad de un usuario y muestra si puede votar (mayor o igual a 18).

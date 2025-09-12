@@ -1,3 +1,4 @@
+package Ej0;
 //abre la clase
 public class Ej0 { 
   //abre el main
