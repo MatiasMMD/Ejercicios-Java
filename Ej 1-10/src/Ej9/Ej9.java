@@ -29,16 +29,35 @@ public class Ej9 {
         temperatura.setCelsius(17);
         System.out.println( "Hacen " + temperatura.getCelsius() + "°");
 
-
         // 6. Crea una clase User con los atributos privados username y password. Implementa los métodos setUsername(String username), setPassword(String password) y checkPassword(String inputPassword) que compare contraseñas.
+        var usuario = new Usuario();
+        usuario.setUsuario("EsElPeipper");
+        usuario.setContraseña("11Tomalube44");
+        System.out.println(usuario.checkContraseña("11Tomalube44"));
 
         // 7. Crea una clase Employee con el atributo privado salary. Agrega el método raiseSalary(double percent) que solo permita aumentos positivos.
+        var empleado = new Empleado();
+        empleado.setSalario(1200000);
+        System.out.println(empleado.aumentoSalario(15));
 
         // 8. Crea una clase Rectangle con los atributos privados width y height. Agrega setters y el método calculateArea() que devuelva el resultado de width * height.
+        var rectangulo = new Rectangulo();
+        rectangulo.setAltura(12);
+        rectangulo.setAncho(8);
+        System.out.println("El área del rectangulo es " + rectangulo.calcularArea());
 
         // 9. Crea una clase Student con el atributo privado grade. Agrega los métodos setGrade(int grade) y isPassed() que retorne true si la nota es mayor o igual a 60.
+        var estudiante = new Estudiante();
+        estudiante.setNota(8);
+        System.out.println(estudiante.calificacion());
 
         // 10. Crea una clase Car con el atributo privado speed. Agrega los métodos accelerate(int amount) que aumente la velocidad (máximo 120) y brake(int amount) que reduzca la velocidad (mínimo 0).
-        
+        var auto = new Auto();
+        auto.setVelocidad(40);
+        System.out.println(auto.acelerar(20));
+        System.out.println(auto.acelerar(40));
+        System.out.println(auto.frenar(80));
+       
+
     }
 }
