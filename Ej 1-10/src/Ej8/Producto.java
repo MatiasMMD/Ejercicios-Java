@@ -11,8 +11,9 @@ public class Producto {
     }
 
     public void descuentoR(){
-        var precioConDescuento = (precio * descuento) / 100;
-        System.out.println("El producto te queda en $" + precioConDescuento + " con el descuento.");
+        descuento = (precio * descuento) / 100;
+        precio = precio - descuento;
+        System.out.println("El producto te queda en $" + precio + " con el descuento.");
     }
 
 }

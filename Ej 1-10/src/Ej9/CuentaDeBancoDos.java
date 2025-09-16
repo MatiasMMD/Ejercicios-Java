@@ -30,7 +30,7 @@ public class CuentaDeBancoDos {
     }
 
     public void retiro(double monto){
-        if (monto<balance || monto==balance) {
+        if (monto < balance || monto == balance) {
             balance = balance - monto;
             System.out.println("Realiza un retiro de: $" + monto + " y su nuevo balance es de: $" + balance);
         } else {
