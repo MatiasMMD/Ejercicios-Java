@@ -5,7 +5,7 @@ public class RectanguloDos extends Forma{
     private double altura;
     private double ancho;
 
-public RectanguloDos(double altura, double ancho){
+    public RectanguloDos(double altura, double ancho){
     this.altura = altura;
     this.ancho = ancho;
 }
