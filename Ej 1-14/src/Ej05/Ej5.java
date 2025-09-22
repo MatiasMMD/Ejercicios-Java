@@ -46,13 +46,13 @@ public class Ej5 {
         // 8. Crea un HashMap donde la clave sea un nombre y el valor el número de teléfono. Añade tres contactos.
         var contactos = new HashMap<String, Integer>();
         contactos.put("Matias", 1111111111);
-        contactos.put("Catalina", 1154034779);
-        contactos.put("Jett", 1142006900);
+        contactos.put("Catalina", 1133985432);
+        contactos.put("Jett", 1156960907);
         System.out.println(contactos);
 
         // 9. Modifica uno de los contactos y elimina otro.
         contactos.replace("Matias", 1132691016);
-        contactos.remove("Jett", 1142006900);
+        contactos.remove("Jett", 1156960907);
         System.out.println(contactos);
 
         // 10. Dado un Array, transfórmalo en un ArrayList, a continuación en un HashSet y finalmente en un HashMap con clave y valor iguales.

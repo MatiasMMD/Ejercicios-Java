@@ -64,8 +64,8 @@ public class Ej6 {
         
         var contactos = new HashMap<String, Integer>();
         contactos.put("Matias", 1132691016);
-        contactos.put("Catalina", 1154034779);
-        contactos.put("Jett", 1142006900);
+        contactos.put("Catalina", 1154709977);
+        contactos.put("Jett", 1136639901);
 
         for (Integer integer : winrateValo) {
             System.out.println("El winrate es " + integer);

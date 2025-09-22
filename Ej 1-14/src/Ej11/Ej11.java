@@ -95,7 +95,7 @@ public class Ej11 {
     // 10. Crea una clase Character con método attack(). Luego crea subclases Warrior, Archer, Mage con ataques diferentes. En main, crea un array de Character y llama a attack() para cada uno.
     var warrior = new Warrior("Tute");
     var mage = new Mage("Tutezinho");
-    var archer = new Archer("Tutimba");
+    var archer = new Archer("Tutanka");
 
 
     Character[] characters = {warrior, mage, archer};

@@ -14,15 +14,15 @@ public class Ej1 {
         System.out.println(edad);
 
         //3 double punto flotante (numero con coma)
-        double altura = 1.78;       
+        double altura = 1.79;       
         System.out.println(altura);
 
         //4 boolean
-        boolean programarBoolean = false;
+        boolean programarBoolean = true;
         System.out.println("¿Me gusta programar? " + programarBoolean);
 
         //5 constante
-        final String EMAIL = "marinodansmatias@gmail.com";  
+        final String EMAIL = "mmarinodans@gmail.com";  
         System.out.println(EMAIL);
         
         //6 char

@@ -32,8 +32,8 @@ public class Ej9 {
         // 6. Crea una clase User con los atributos privados username y password. Implementa los métodos setUsername(String username), setPassword(String password) y checkPassword(String inputPassword) que compare contraseñas.
         var usuario = new Usuario();
         usuario.setUsuario("EsElPeipper");
-        usuario.setContraseña("11Tomalube44");
-        System.out.println(usuario.checkContraseña("11Tomalube44"));
+        usuario.setContraseña("Pepito123");
+        System.out.println(usuario.checkContraseña("Pepito123"));
 
         // 7. Crea una clase Employee con el atributo privado salary. Agrega el método raiseSalary(double percent) que solo permita aumentos positivos.
         var empleado = new Empleado();
