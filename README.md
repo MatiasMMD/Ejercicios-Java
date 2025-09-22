@@ -1,8 +1,7 @@
 # Ejercicios de Java
 
 Este es mi primer repositorio de prueba mientras aprendo la herramiento de GitHub y a la vez aprendo el lenguaje de programación de Java con VS Code.
-- En este repositorio se encuentran algunas guias del curso de POO de Java de Free Range Tester que hice durante la realización del mismo.
-- Por otro lado, se encuentran los ejercicios que realice para poder formarme en Java. Se encuentra desde estructuras mas simples hasta POO y clases.
+- En este repositorio se encuentran los ejercicios que realice para poder formarme en Java. Se encuentra desde estructuras mas simples hasta POO y clases.
 
 ## 🚀 Tecnologías utilizadas
 - ![Java](https://img.shields.io/badge/Java-21-red)
@@ -10,7 +9,6 @@ Este es mi primer repositorio de prueba mientras aprendo la herramiento de GitHu
 - ![GitHub](https://img.shields.io/badge/GitHub-Repo-black)
 
 ## 📂 Estructura
-- Carpeta FRT: Guias sobre Arrays, Arrays bidimensioales (Matriz), Loops, Control de flujo con condicionales, Operador ternario y Break & Continue.
 - Carpeta Ej 1-14:
   - Ej0 → Primeros pasos 
   - Ej1 → Variables y constantes
