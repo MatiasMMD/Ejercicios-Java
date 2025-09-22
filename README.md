@@ -1,7 +1,15 @@
-# Ejercicios de Java ![Status](https://img.shields.io/badge/Estado-En%20progreso-yellow) ![License](https://img.shields.io/badge/License-MIT-green)
+# Ejercicios de Java ![Status](https://img.shields.io/badge/Estado-En%20progreso-yellow) ![License](https://img.shields.io/badge/License-MIT-green)  
 
 Este es mi primer repositorio de prueba mientras aprendo la herramiento de GitHub y a la vez aprendo el lenguaje de programación de Java con VS Code.
 - En este repositorio se encuentran los ejercicios que realice para poder formarme en Java. Se encuentra desde estructuras mas simples hasta POO y clases.
+
+## 🧭 Tabla de contenidos
+- [Tecnologías utilizadas](#-tecnologías-utilizadas)
+- [Progreso](#-progreso)
+- [Cómo ejecutar](#-cómo-ejecutar)
+- [Próximos pasos](#-próximos-pasos)
+- [Roadmap futuro](#-roadmap-futuro)
+- [Licencia](#-licencia)
 
 ## 🚀 Tecnologías utilizadas
 
