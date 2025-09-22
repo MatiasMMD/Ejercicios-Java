@@ -21,7 +21,7 @@ Es mi primer repositorio de prueba mientras aprendo la herramiento de GitHub y a
   - Ej6 → Loops  
   - Ej7 → Funciones  
   - Ej8 → POO: Clases y objetos  
-  - Ej9 → Modificadores de acceso  
+  - Ej9 → Encapsulamiento (Modificadores de acceso)  
   - Ej10 → Herencia  
   - Ej11 → Polimorfismo  
   - Ej12 → Abstracción  
