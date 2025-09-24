@@ -43,27 +43,29 @@ public class Ej14 {
     System.out.println("Variable: " + Ej14.message + " y Varibale: " + message);
  
     // 5. Usa import java.util.Scanner; para leer un número y mostrar si es positivo o negativo.
-     var number = scanner.nextInt();
+    System.out.println("Ingrese un numero: ");
+    var number = scanner.nextInt();
 
     if (number < 0) {
-        System.out.println("Es negativo");
+        System.out.println(number + " es negativo");
     } else {
-        System.out.println("Es positivo");
+        System.out.println(number + " es positivo");
     } 
 
     // 6. Declara una variable static en una clase y accede a ella desde main() sin crear un objeto.
-    System.out.println("Mi perra se llama " + Dog.name + " y es una " + Dog.raza); 
+    System.out.println("Mi perra se llama " + Dog.name + " y es un " + Dog.raza); 
 
     // 7. Importa java.util.Random y genera un número aleatorio del 1 al 10.
     var randomizer = new Random();
     var randomNum = randomizer.nextInt(10);
     randomNum += 1;
 
-    System.out.println(randomNum);
+    System.out.println("Su número generado aleatoriamente es: " + randomNum);
 
     // 8. Crea una clase con comentarios adecuados explicando cada sección del código.
     //Indicador para entender que atributo poner.
     //Con el scanner (instanciado mas arriba en el ej 2.), hago que el usuario ingrese sus datos personalizados
+    var nameTwo = scanner.nextLine();
     System.out.println("Ingrese su nombre: ");            
     var personName = scanner.nextLine();                   
     System.out.println("Ingrese su DNI: ");
@@ -93,6 +95,6 @@ public class Ej14 {
     user.showUserGame();
 
     // 10. Haz debug del código implementado haciendo uso de sus diferentes herramientas.
-    
+    scanner.close();
     }
 }
