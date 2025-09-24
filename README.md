@@ -6,9 +6,9 @@ Este es mi primer repositorio de prueba mientras aprendo la herramiento de GitHu
 ## 🧭 Tabla de contenidos
 - [Tecnologías utilizadas](#-tecnologías-utilizadas)
 - [Progreso](#-progreso)
-- [Cómo compilar y ejecutar](#cómo-compilar-y-ejecutar)
-- [Próximos pasos](#próximos-pasos)
-- [Roadmap futuro](#roadmap-futuro)
+- [Cómo compilar y ejecutar](#%EF%B8%8F-c%C3%B3mo-compilar-y-ejecutar)
+- [Próximos pasos](#%EF%B8%8F-pr%C3%B3ximos-pasos)
+- [Roadmap futuro](#%EF%B8%8F-roadmap-futuro)
 
 ## 🚀 Tecnologías utilizadas
 
