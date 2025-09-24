@@ -28,6 +28,7 @@ Este es mi primer repositorio de prueba mientras aprendo la herramiento de GitHu
 - **Ej8–Ej12:** Clases y objetos, encapsulamiento, herencia, polimorfismo, abstracción.
 - **Ej13:** Manejo de excepciones.
 - **Ej14:** Prácticas adicionales.
+- **EjExtraC** Ejercicios adicionales personales para agilizar tareas diarias.
 
 ## ▶️ Cómo compilar y ejecutar
 
