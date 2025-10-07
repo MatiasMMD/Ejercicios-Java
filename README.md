@@ -1,4 +1,4 @@
-# Ejercicios de Java ![Status](https://img.shields.io/badge/Estado-En%20progreso-yellow) ![License](https://img.shields.io/badge/License-MIT-green)  
+# Ejercicios de Java ![Status](https://img.shields.io/badge/status-complete-brightgreen.svg) ![License](https://img.shields.io/badge/License-MIT-green)  
 
 Este es mi primer repositorio de prueba mientras aprendo la herramiento de GitHub y a la vez aprendo el lenguaje de programación de Java con VS Code.
 - En este repositorio se encuentran los ejercicios que realice para poder formarme en Java. Se encuentra desde estructuras mas simples hasta POO y clases.
@@ -58,8 +58,9 @@ javac -d ../bin *.java
   - Practicar más a fondo lo ya aprendido (clases, herencia, polimorfismo, excepciones).  
   - Ganar rapidez y eficiencia al resolver ejercicios, con código más limpio y reutilizable.  
 - **Automatización (en proceso):**  
-  - Estoy comenzando con Selenium y Cucumber en Java a través del curso de Free Range Testers.  
-  - Por ahora no está implementado en el repo, pero el objetivo es integrarlo más adelante con ejemplos prácticos.
+  - Estoy comenzando con Selenium y Cucumber en Java a través del curso de Free Range Testers.
+  - Próximamente crearé otro repo donde mostraré mi proceso de aprendizaje de la herramienta.
+  - Este nuevo repositorio estará dedicado exclusivamente a prácticas de **QA Automation** con Selenium, Cucumber y Gradle.
 
 ## 🗺️ Roadmap futuro
 
